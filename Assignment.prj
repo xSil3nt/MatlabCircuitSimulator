@@ -1,5 +1,5 @@
 <deployment-project plugin="plugin.apptool" plugin-version="1.0">
-  <configuration build-checksum="431244466" file="C:\Users\Shazin\OneDrive - Asia Pacific University\University\Year 2\ESA\MATLAB\Assignment.prj" location="C:\Users\Shazin\OneDrive - Asia Pacific University\University\Year 2\ESA\MATLAB" name="Assignment" target="target.mlapps" target-name="Package App">
+  <configuration build-checksum="2092257455" file="C:\Users\Shazin\OneDrive - Asia Pacific University\University\Year 2\ESA\MATLAB\MatlabCircuitSimulator\Assignment.prj" location="C:\Users\Shazin\OneDrive - Asia Pacific University\University\Year 2\ESA\MATLAB\MatlabCircuitSimulator" name="Assignment" target="target.mlapps" target-name="Package App">
     <param.appname>Assignment</param.appname>
     <param.authnamewatermark>Shazin</param.authnamewatermark>
     <param.email />
@@ -8,7 +8,7 @@
     <param.icons />
     <param.summary />
     <param.description />
-    <param.screenshot>C:\Users\Shazin\AppData\Local\Temp\tpd9f4aecb_6b16_4fda_bcfa_68994ae159a7.png</param.screenshot>
+    <param.screenshot>C:\Users\Shazin\AppData\Local\Temp\tpba69a704_6a77_414a_bcfb_bf7a71b5e601.png</param.screenshot>
     <param.version>1.0</param.version>
     <param.products.name />
     <param.products.id />
@@ -33,7 +33,9 @@
       <file>${PROJECT_ROOT}\Assignment.mlapp</file>
     </fileset.main>
     <fileset.depfun />
-    <fileset.resources />
+    <fileset.resources>
+      <file>${PROJECT_ROOT}\Halfwave.slx</file>
+    </fileset.resources>
     <fileset.package />
     <build-deliverables>
       <file location="C:\Users\Shazin" name="Desktop" optional="false">C:\Users\Shazin\Desktop</file>
