@@ -14,7 +14,7 @@
     <param.products.id />
     <param.products.version />
     <param.platforms />
-    <param.output>C:\Users\Shazin\Desktop</param.output>
+    <param.output>C:\Users\Shazin</param.output>
     <param.guid>57ea07bc-1c99-4a71-91aa-4f75d9ecf5b2</param.guid>
     <unset>
       <param.email />
@@ -38,7 +38,7 @@
     </fileset.resources>
     <fileset.package />
     <build-deliverables>
-      <file location="C:\Users\Shazin" name="Desktop" optional="false">C:\Users\Shazin\Desktop</file>
+      <file location="C:\Users" name="Shazin" optional="false">C:\Users\Shazin</file>
     </build-deliverables>
     <workflow />
     <matlab>
